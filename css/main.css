@@ -1,0 +1,28 @@
+* {
+    background: rgb(245, 232, 196) ;
+}
+* {
+    margin: 10;
+    padding: 0;
+    border: 5;
+}
+
+  
+ #maininformation {
+    font-style: italic;
+ }
+ h2 {
+    text-align: center;
+ }
+ #navbar {
+    display: flex;
+     list-style-type: none;
+ }
+ 
+ #navbar a {
+ 
+   color: #612d09;
+    padding: 5px 10px;
+     text-decoration: none;
+     font-weight: bold;
+ }
